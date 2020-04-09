@@ -61,7 +61,7 @@
  1. Диаграмма компонентов.
  ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/ComponentDiagram_To_Be.PNG)
  2. Диаграмма развертывания.
- ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/DeploymentDiagram.PNG)
+ ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/DeploymentDiagram_To_Be.PNG)
   
  <a name="part2"/>
  
@@ -73,7 +73,7 @@
  1. Диаграмма компонентов.
  ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/ComponentDiagram_As_Is.PNG)
  2. Диаграмма развертывания.
- ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/DeploymentDiagram.PNG)
+ ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/DeploymentDiagram_As_Is.PNG)
  3. Диаграмма классов
  ![](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Diagrams/ClassDiagram_As_Is.jpg)
  
