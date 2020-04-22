@@ -13,4 +13,5 @@
 1.1. [Парное программирование](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/Pair%20Programming.md)    
 1.2. [Архитектурное решение](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/ArchitectualSolution.md)   
 1.3. [Диаграммы](https://github.com/pobozhnaya18/Price-Tag/tree/master/Documents/Diagrams)  
+1.4. [Технический долг](https://github.com/PaBLovko/Price-Tag/blob/master/Documents/TechnicalDebt.md)
 2. [Код](https://github.com/pobozhnaya18/Price-Tag/tree/master/Code)  
