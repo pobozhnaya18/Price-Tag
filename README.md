@@ -14,4 +14,5 @@
 1.2. [Архитектурное решение](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/ArchitectualSolution.md)   
 1.3. [Диаграммы](https://github.com/pobozhnaya18/Price-Tag/tree/master/Documents/Diagrams)  
 1.4. [Технический долг](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/TechnicalDebt.md)
+1.5. [Улучшение UX](https://github.com/pobozhnaya18/Price-Tag/blob/master/Documents/UpgradeUX.md)
 2. [Код](https://github.com/pobozhnaya18/Price-Tag/tree/master/Code)  
